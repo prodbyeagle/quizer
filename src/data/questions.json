@@ -1,0 +1,250 @@
+{
+  "easy": [
+    {
+      "question": "Welches Tier miaut?",
+      "answers": [
+        "Katze",
+        "Hund",
+        "Vogel",
+        "Fisch"
+      ],
+      "correct": [
+        "Katze"
+      ]
+    },
+    {
+      "question": "Welche Farbe hat der Himmel an einem klaren Tag?",
+      "answers": [
+        "Blau",
+        "Rot",
+        "Grün",
+        "Schwarz"
+      ],
+      "correct": [
+        "Blau"
+      ]
+    },
+    {
+      "question": "Wie viele Beine hat ein Hund?",
+      "answers": [
+        "Zwei",
+        "Drei",
+        "Vier",
+        "Sechs"
+      ],
+      "correct": [
+        "Vier"
+      ]
+    },
+    {
+      "question": "Was ist 2 + 2?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": [
+        "4"
+      ]
+    },
+    {
+      "question": "Welche Jahreszeit kommt nach dem Sommer?",
+      "answers": [
+        "Herbst",
+        "Winter",
+        "Frühling",
+        "Sommer"
+      ],
+      "correct": [
+        "Herbst"
+      ]
+    }
+  ],
+  "normal": [
+    {
+      "question": "Welcher Planet ist der Sonne am nächsten?",
+      "answers": [
+        "Venus",
+        "Erde",
+        "Mars",
+        "Merkur"
+      ],
+      "correct": [
+        "Merkur"
+      ]
+    },
+    {
+      "question": "In welchem Jahr begann der Zweite Weltkrieg?",
+      "answers": [
+        "1939",
+        "1945",
+        "1914",
+        "1960"
+      ],
+      "correct": [
+        "1939"
+      ]
+    },
+    {
+      "question": "Wie viele Kontinente gibt es?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": [
+        "7"
+      ]
+    },
+    {
+      "question": "Welcher chemische Stoff hat das Symbol 'O'?",
+      "answers": [
+        "Wasserstoff",
+        "Sauerstoff",
+        "Helium",
+        "Stickstoff"
+      ],
+      "correct": [
+        "Sauerstoff"
+      ]
+    },
+    {
+      "question": "Wer schrieb 'Hamlet'?",
+      "answers": [
+        "Shakespeare",
+        "Goethe",
+        "Schiller",
+        "Kafka"
+      ],
+      "correct": [
+        "Shakespeare"
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "question": "Was ist die Hauptstadt von Kanada?",
+      "answers": [
+        "Ottawa",
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "correct": [
+        "Ottawa"
+      ]
+    },
+    {
+      "question": "Welches Metall hat das chemische Symbol 'Au'?",
+      "answers": [
+        "Gold",
+        "Silber",
+        "Blei",
+        "Kupfer"
+      ],
+      "correct": [
+        "Gold"
+      ]
+    },
+    {
+      "question": "Wie viele Tasten hat ein Standard-Klavier?",
+      "answers": [
+        "88",
+        "90",
+        "100",
+        "108"
+      ],
+      "correct": [
+        "88"
+      ]
+    },
+    {
+      "question": "Welcher Künstler schuf die Mona Lisa?",
+      "answers": [
+        "Michelangelo",
+        "Da Vinci",
+        "Picasso",
+        "Van Gogh"
+      ],
+      "correct": [
+        "Da Vinci"
+      ]
+    },
+    {
+      "question": "Wer entwickelte die Relativitätstheorie?",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Galileo",
+        "Curie"
+      ],
+      "correct": [
+        "Einstein"
+      ]
+    }
+  ],
+  "hardcore": [
+    {
+      "question": "Wie viele Elemente hat das Periodensystem (Stand 2023)?",
+      "answers": [
+        "118",
+        "120",
+        "112",
+        "116"
+      ],
+      "correct": [
+        "118"
+      ]
+    },
+    {
+      "question": "Welches Land hat die höchste Bevölkerungsdichte der Welt?",
+      "answers": [
+        "Monaco",
+        "China",
+        "Indien",
+        "Bangladesch"
+      ],
+      "correct": [
+        "Monaco"
+      ]
+    },
+    {
+      "question": "Wer schrieb 'Die Verwandlung'?",
+      "answers": [
+        "Franz Kafka",
+        "Johann Wolfgang von Goethe",
+        "Friedrich Nietzsche",
+        "Sigmund Freud"
+      ],
+      "correct": [
+        "Franz Kafka"
+      ]
+    },
+    {
+      "question": "Was ist die Quadratwurzel von 144?",
+      "answers": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": [
+        "12"
+      ]
+    },
+    {
+      "question": "Welcher griechische Philosoph war Lehrer von Alexander dem Großen?",
+      "answers": [
+        "Sokrates",
+        "Platon",
+        "Aristoteles",
+        "Epikur"
+      ],
+      "correct": [
+        "Aristoteles"
+      ]
+    }
+  ]
+}
