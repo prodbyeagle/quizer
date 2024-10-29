@@ -12,17 +12,8 @@ function getQuestionsByDifficulty(difficulty: string): Question[] {
    return difficultyMap[difficulty] || [];
 }
 
-// Funktion zum Mischen des Arrays
-function shuffleArray(array: Question[]): Question[] {
-   for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
-   }
-   return array;
-}
-
 export function useQuiz(difficulty: string) {
-   const questions = shuffleArray(getQuestionsByDifficulty(difficulty)); // Fragen mischen
+   const questions = getQuestionsByDifficulty(difficulty);
    const maxErrorsMap: Record<string, number> = { easy: 8, normal: 4, hard: 2, hardcore: 1 };
    const maxTimeMap: Record<string, number> = { easy: 120, normal: 90, hard: 60, hardcore: 30 };
    const maxErrors = maxErrorsMap[difficulty];
@@ -38,6 +29,7 @@ export function useQuiz(difficulty: string) {
 
    const currentQuestion = questions[currentQuestionIndex];
 
+   // Timer-Effect
    useEffect(() => {
       if (timeLeft > 0 && !isGameOver) {
          const timer = setInterval(() => {

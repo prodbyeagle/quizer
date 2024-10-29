@@ -59,6 +59,246 @@
       "correct": [
         "Herbst"
       ]
+    },
+    {
+      "question": "Wie heißt das größte Land der Welt?",
+      "answers": [
+        "China",
+        "USA",
+        "Russland",
+        "Kanada"
+      ],
+      "correct": [
+        "Russland"
+      ]
+    },
+    {
+      "question": "Was trinken Kühe?",
+      "answers": [
+        "Milch",
+        "Wasser",
+        "Saft",
+        "Bier"
+      ],
+      "correct": [
+        "Wasser"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptstadt von Deutschland?",
+      "answers": [
+        "Berlin",
+        "München",
+        "Hamburg",
+        "Köln"
+      ],
+      "correct": [
+        "Berlin"
+      ]
+    },
+    {
+      "question": "Welches Obst ist gelb und krumm?",
+      "answers": [
+        "Banane",
+        "Apfel",
+        "Birne",
+        "Kirsche"
+      ],
+      "correct": [
+        "Banane"
+      ]
+    },
+    {
+      "question": "Welcher Kontinent ist der kleinste?",
+      "answers": [
+        "Asien",
+        "Europa",
+        "Antarktika",
+        "Afrika"
+      ],
+      "correct": [
+        "Antarktika"
+      ]
+    },
+    {
+      "question": "Was ist die Summe von 5 und 3?",
+      "answers": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "correct": [
+        "8"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptspeise der italienischen Küche?",
+      "answers": [
+        "Pizza",
+        "Sushi",
+        "Tacos",
+        "Burger"
+      ],
+      "correct": [
+        "Pizza"
+      ]
+    },
+    {
+      "question": "Wie viele Zähne hat ein Erwachsener normalerweise?",
+      "answers": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correct": [
+        "32"
+      ]
+    },
+    {
+      "question": "Welcher Planet ist der größte?",
+      "answers": [
+        "Mars",
+        "Erde",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": [
+        "Jupiter"
+      ]
+    },
+    {
+      "question": "Was für ein Gerät benutzt man, um den Fernseher einzuschalten?",
+      "answers": [
+        "Fernbedienung",
+        "Telefon",
+        "Computer",
+        "Tablet"
+      ],
+      "correct": [
+        "Fernbedienung"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptstadt von Spanien?",
+      "answers": [
+        "Barcelona",
+        "Madrid",
+        "Valencia",
+        "Sevilla"
+      ],
+      "correct": [
+        "Madrid"
+      ]
+    },
+    {
+      "question": "Welches Tier hat einen langen Hals?",
+      "answers": [
+        "Giraffe",
+        "Elefant",
+        "Hund",
+        "Katze"
+      ],
+      "correct": [
+        "Giraffe"
+      ]
+    },
+    {
+      "question": "Wie viele Monate hat ein Jahr?",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": [
+        "12"
+      ]
+    },
+    {
+      "question": "Welches Gemüse ist rot und rund?",
+      "answers": [
+        "Tomate",
+        "Karotte",
+        "Gurke",
+        "Paprika"
+      ],
+      "correct": [
+        "Tomate"
+      ]
+    },
+    {
+      "question": "Was ist das Gegenteil von heiß?",
+      "answers": [
+        "Kalt",
+        "Warm",
+        "Lauwarm",
+        "Heiß"
+      ],
+      "correct": [
+        "Kalt"
+      ]
+    },
+    {
+      "question": "Was ist ein anderer Name für ein Kaninchen?",
+      "answers": [
+        "Hase",
+        "Meerschweinchen",
+        "Hamster",
+        "Fuchs"
+      ],
+      "correct": [
+        "Hase"
+      ]
+    },
+    {
+      "question": "Was machen die meisten Menschen morgens zuerst?",
+      "answers": [
+        "Frühstücken",
+        "Schlafen",
+        "Fernsehen",
+        "Joggen"
+      ],
+      "correct": [
+        "Frühstücken"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptstadt von Italien?",
+      "answers": [
+        "Florenz",
+        "Rom",
+        "Mailand",
+        "Venedig"
+      ],
+      "correct": [
+        "Rom"
+      ]
+    },
+    {
+      "question": "Wie viele Farben hat eine Ampel?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": [
+        "3"
+      ]
+    },
+    {
+      "question": "Was macht ein Lehrer?",
+      "answers": [
+        "Unterrichten",
+        "Essen",
+        "Schlafen",
+        "Spielen"
+      ],
+      "correct": [
+        "Unterrichten"
+      ]
     }
   ],
   "normal": [
@@ -120,6 +360,210 @@
       ],
       "correct": [
         "Shakespeare"
+      ]
+    },
+    {
+      "question": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+      "answers": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correct": [
+        "8"
+      ]
+    },
+    {
+      "question": "Welches Element hat das chemische Symbol 'Fe'?",
+      "answers": [
+        "Zink",
+        "Eisen",
+        "Kupfer",
+        "Silber"
+      ],
+      "correct": [
+        "Eisen"
+      ]
+    },
+    {
+      "question": "Wie viele Farben hat der Regenbogen?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": [
+        "7"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptstadt von Frankreich?",
+      "answers": [
+        "Paris",
+        "Lyon",
+        "Marseille",
+        "Nice"
+      ],
+      "correct": [
+        "Paris"
+      ]
+    },
+    {
+      "question": "Was ist der höchste Berg der Welt?",
+      "answers": [
+        "K2",
+        "Mount Everest",
+        "Kilimandscharo",
+        "Mont Blanc"
+      ],
+      "correct": [
+        "Mount Everest"
+      ]
+    },
+    {
+      "question": "Wer malte die Sixtinische Kapelle?",
+      "answers": [
+        "Da Vinci",
+        "Raphael",
+        "Michelangelo",
+        "Van Gogh"
+      ],
+      "correct": [
+        "Michelangelo"
+      ]
+    },
+    {
+      "question": "Wie viele Kontinente sind bewohnt?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": [
+        "5"
+      ]
+    },
+    {
+      "question": "Was ist die kleinste Einheit des Lebens?",
+      "answers": [
+        "Zelle",
+        "Molekül",
+        "Atom",
+        "Organ"
+      ],
+      "correct": [
+        "Zelle"
+      ]
+    },
+    {
+      "question": "Wie heißt die deutsche Nationalhymne?",
+      "answers": [
+        "Das Lied der Deutschen",
+        "Die Gedanken sind frei",
+        "Ich weiß nicht, was soll es bedeuten",
+        "Einigkeit und Recht und Freiheit"
+      ],
+      "correct": [
+        "Das Lied der Deutschen"
+      ]
+    },
+    {
+      "question": "Was ist der Hauptbestandteil der Luft?",
+      "answers": [
+        "Sauerstoff",
+        "Kohlenstoffdioxid",
+        "Stickstoff",
+        "Argon"
+      ],
+      "correct": [
+        "Stickstoff"
+      ]
+    },
+    {
+      "question": "Wer ist der Erfinder des Telefons?",
+      "answers": [
+        "Einstein",
+        "Bell",
+        "Newton",
+        "Edison"
+      ],
+      "correct": [
+        "Bell"
+      ]
+    },
+    {
+      "question": "Wie nennt man die wissenschaftliche Studie der Insekten?",
+      "answers": [
+        "Entomologie",
+        "Biologie",
+        "Zoologie",
+        "Botanik"
+      ],
+      "correct": [
+        "Entomologie"
+      ]
+    },
+    {
+      "question": "Welches Land ist für seine Tulpen bekannt?",
+      "answers": [
+        "Belgien",
+        "Frankreich",
+        "Niederlande",
+        "Dänemark"
+      ],
+      "correct": [
+        "Niederlande"
+      ]
+    },
+    {
+      "question": "Wie heißt das größte Meer der Welt?",
+      "answers": [
+        "Karibisches Meer",
+        "Mediterranes Meer",
+        "Indischer Ozean",
+        "Pazifischer Ozean"
+      ],
+      "correct": [
+        "Pazifischer Ozean"
+      ]
+    },
+    {
+      "question": "Wie viele Planeten in unserem Sonnensystem haben Ringe?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": [
+        "4"
+      ]
+    },
+    {
+      "question": "Was ist das Hauptnahrungsmittel in Japan?",
+      "answers": [
+        "Brot",
+        "Reis",
+        "Nudeln",
+        "Fleisch"
+      ],
+      "correct": [
+        "Reis"
+      ]
+    },
+    {
+      "question": "Wie heißt der längste Fluss der Welt?",
+      "answers": [
+        "Amazonas",
+        "Nil",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correct": [
+        "Nil"
       ]
     }
   ],
@@ -183,6 +627,210 @@
       "correct": [
         "Einstein"
       ]
+    },
+    {
+      "question": "Wer war der erste Mensch im All?",
+      "answers": [
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "John Glenn"
+      ],
+      "correct": [
+        "Yuri Gagarin"
+      ]
+    },
+    {
+      "question": "Wie viele Chromosomen hat der Mensch?",
+      "answers": [
+        "46",
+        "23",
+        "48",
+        "44"
+      ],
+      "correct": [
+        "46"
+      ]
+    },
+    {
+      "question": "Welches Element hat das chemische Symbol 'Hg'?",
+      "answers": [
+        "Quecksilber",
+        "Gold",
+        "Silber",
+        "Blei"
+      ],
+      "correct": [
+        "Quecksilber"
+      ]
+    },
+    {
+      "question": "Wie viele Bundesländer hat Deutschland?",
+      "answers": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": [
+        "16"
+      ]
+    },
+    {
+      "question": "In welchem Jahr fiel die Mauer in Berlin?",
+      "answers": [
+        "1989",
+        "1990",
+        "1991",
+        "1988"
+      ],
+      "correct": [
+        "1989"
+      ]
+    },
+    {
+      "question": "Wer war der erste Präsident der USA?",
+      "answers": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "correct": [
+        "George Washington"
+      ]
+    },
+    {
+      "question": "Wie viele Sekunden hat eine Stunde?",
+      "answers": [
+        "3600",
+        "7200",
+        "1800",
+        "6000"
+      ],
+      "correct": [
+        "3600"
+      ]
+    },
+    {
+      "question": "Welcher Wissenschaftler formulierte die Gesetze der Bewegung?",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Galileo",
+        "Hawking"
+      ],
+      "correct": [
+        "Newton"
+      ]
+    },
+    {
+      "question": "Welcher Kontinent hat die meisten Länder?",
+      "answers": [
+        "Asien",
+        "Afrika",
+        "Europa",
+        "Nordamerika"
+      ],
+      "correct": [
+        "Afrika"
+      ]
+    },
+    {
+      "question": "Welches Land ist für seine Pyramiden bekannt?",
+      "answers": [
+        "Ägypten",
+        "Griechenland",
+        "Mexiko",
+        "Indien"
+      ],
+      "correct": [
+        "Ägypten"
+      ]
+    },
+    {
+      "question": "Was ist die größte Wüste der Welt?",
+      "answers": [
+        "Sahara",
+        "Gobi",
+        "Arabische Wüste",
+        "Kalahari"
+      ],
+      "correct": [
+        "Sahara"
+      ]
+    },
+    {
+      "question": "Wer schrieb '1984'?",
+      "answers": [
+        "Orwell",
+        "Huxley",
+        "Bradbury",
+        "Kafka"
+      ],
+      "correct": [
+        "Orwell"
+      ]
+    },
+    {
+      "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+      "answers": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correct": [
+        "32"
+      ]
+    },
+    {
+      "question": "Was ist das chemische Symbol für Wasser?",
+      "answers": [
+        "H2O",
+        "O2",
+        "CO2",
+        "N2"
+      ],
+      "correct": [
+        "H2O"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptstadt von Australien?",
+      "answers": [
+        "Sydney",
+        "Canberra",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "correct": [
+        "Canberra"
+      ]
+    },
+    {
+      "question": "Wie viele Nullen hat eine Million?",
+      "answers": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "correct": [
+        "6"
+      ]
+    },
+    {
+      "question": "Welches Land hat die höchste Anzahl an Nobelpreisträgern?",
+      "answers": [
+        "USA",
+        "Deutschland",
+        "Vereinigtes Königreich",
+        "Frankreich"
+      ],
+      "correct": [
+        "USA"
+      ]
     }
   ],
   "hardcore": [
@@ -244,6 +892,234 @@
       ],
       "correct": [
         "Aristoteles"
+      ]
+    },
+    {
+      "question": "Welcher Planet ist bekannt als der Rote Planet?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Saturn"
+      ],
+      "correct": [
+        "Mars"
+      ]
+    },
+    {
+      "question": "Was ist der längste Fluss der Welt?",
+      "answers": [
+        "Amazonas",
+        "Nil",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correct": [
+        "Nil"
+      ]
+    },
+    {
+      "question": "Wer formulierte die drei Gesetze der Thermodynamik?",
+      "answers": [
+        "Newton",
+        "Kelvin",
+        "Max Planck",
+        "Carnot"
+      ],
+      "correct": [
+        "Carnot"
+      ]
+    },
+    {
+      "question": "Welches Land hat die größte Fläche?",
+      "answers": [
+        "Russland",
+        "Kanada",
+        "China",
+        "USA"
+      ],
+      "correct": [
+        "Russland"
+      ]
+    },
+    {
+      "question": "Wer entdeckte die Insulintherapie?",
+      "answers": [
+        "Banting",
+        "Fleming",
+        "Curie",
+        "Einstein"
+      ],
+      "correct": [
+        "Banting"
+      ]
+    },
+    {
+      "question": "Was ist die Formel für die Fläche eines Kreises?",
+      "answers": [
+        "πr²",
+        "2πr",
+        "r²",
+        "πd"
+      ],
+      "correct": [
+        "πr²"
+      ]
+    },
+    {
+      "question": "Wie viele Bundesländer hat Deutschland?",
+      "answers": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": [
+        "16"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptstadt von Neuseeland?",
+      "answers": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "correct": [
+        "Wellington"
+      ]
+    },
+    {
+      "question": "Welches Instrument hat die größte Reichweite?",
+      "answers": [
+        "Piano",
+        "Gitarre",
+        "Orgel",
+        "Violine"
+      ],
+      "correct": [
+        "Orgel"
+      ]
+    },
+    {
+      "question": "Wie viele Tasten hat ein Klavier?",
+      "answers": [
+        "88",
+        "76",
+        "72",
+        "84"
+      ],
+      "correct": [
+        "88"
+      ]
+    },
+    {
+      "question": "Wer war der erste Mensch auf dem Mond?",
+      "answers": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "correct": [
+        "Neil Armstrong"
+      ]
+    },
+    {
+      "question": "In welchem Jahr begann der Erste Weltkrieg?",
+      "answers": [
+        "1914",
+        "1918",
+        "1939",
+        "1945"
+      ],
+      "correct": [
+        "1914"
+      ]
+    },
+    {
+      "question": "Was ist das chemische Symbol für Gold?",
+      "answers": [
+        "Au",
+        "Ag",
+        "Fe",
+        "Pb"
+      ],
+      "correct": [
+        "Au"
+      ]
+    },
+    {
+      "question": "Was ist der Hauptbestandteil der Erdkruste?",
+      "answers": [
+        "Sauerstoff",
+        "Silizium",
+        "Aluminium",
+        "Eisen"
+      ],
+      "correct": [
+        "Sauerstoff"
+      ]
+    },
+    {
+      "question": "Wie hoch ist der Mount Everest?",
+      "answers": [
+        "8848 m",
+        "8200 m",
+        "9000 m",
+        "8600 m"
+      ],
+      "correct": [
+        "8848 m"
+      ]
+    },
+    {
+      "question": "Was ist die Hauptstadt von Dänemark?",
+      "answers": [
+        "Kopenhagen",
+        "Oslo",
+        "Stockholm",
+        "Helsinki"
+      ],
+      "correct": [
+        "Kopenhagen"
+      ]
+    },
+    {
+      "question": "Was ist die größte Insel der Welt?",
+      "answers": [
+        "Grönland",
+        "Neuguinea",
+        "Borneo",
+        "Madagaskar"
+      ],
+      "correct": [
+        "Grönland"
+      ]
+    },
+    {
+      "question": "Wer war der erste weibliche Nobelpreisträger?",
+      "answers": [
+        "Marie Curie",
+        "Irène Joliot-Curie",
+        "Rosalind Franklin",
+        "Ada Lovelace"
+      ],
+      "correct": [
+        "Marie Curie"
+      ]
+    },
+    {
+      "question": "Wie viele verschiedene Blutgruppen gibt es?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": [
+        "4"
       ]
     }
   ]
