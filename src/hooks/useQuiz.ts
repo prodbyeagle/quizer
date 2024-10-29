@@ -1,3 +1,5 @@
+// src/hooks/useQuiz.ts
+
 import { useState, useEffect } from "react";
 import questionsData from "../data/questions.json";
 
@@ -15,12 +17,15 @@ function getQuestionsByDifficulty(difficulty: string): Question[] {
 export function useQuiz(difficulty: string) {
    const questions = getQuestionsByDifficulty(difficulty);
    const maxErrorsMap: Record<string, number> = { easy: 8, normal: 4, hard: 2, hardcore: 1 };
-   const maxTimeMap: Record<string, number> = { easy: 120, normal: 90, hard: 60, hardcore: 30 };
+   const maxTimeMap: Record<string, number> = { easy: 540, normal: 320, hard: 180, hardcore: 120 };
+   const maxSkipsMap: Record<string, number> = { easy: 8, normal: 4, hard: 2, hardcore: 0 }; // Maximal erlaubte Skips
+
    const maxErrors = maxErrorsMap[difficulty];
    const maxTime = maxTimeMap[difficulty];
+   const maxSkips = maxSkipsMap[difficulty]; // Maximal erlaubte Skips für den Schwierigkeitsgrad
 
    const [score, setScore] = useState(0);
-   const [skips, setSkips] = useState(6);
+   const [skips, setSkips] = useState(maxSkips); // Setze die Skips auf die maximalen Skips
    const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
    const [timeLeft, setTimeLeft] = useState(maxTime);
    const [errors, setErrors] = useState(0);
@@ -42,10 +47,10 @@ export function useQuiz(difficulty: string) {
    }, [timeLeft, isGameOver]);
 
    useEffect(() => {
-      if (errors >= maxErrors) {
-         setIsGameOver(true);
+      if (errors >= maxErrors || (skips === 0 && difficulty !== "hardcore")) {
+         setIsGameOver(true); // Spiel beenden, wenn keine Skips mehr vorhanden sind (außer im Hardcore-Modus)
       }
-   }, [errors, maxErrors]);
+   }, [errors, maxErrors, skips, difficulty]);
 
    function checkAnswer(selectedAnswer: string) {
       if (currentQuestion.correct.includes(selectedAnswer)) {
@@ -70,5 +75,15 @@ export function useQuiz(difficulty: string) {
       }
    }
 
-   return { currentQuestion, score, skips, timeLeft, checkAnswer, skipQuestion, isGameOver, fade };
+   return {
+      currentQuestion,
+      score,
+      skips,
+      timeLeft,
+      checkAnswer,
+      skipQuestion,
+      isGameOver,
+      fade,
+      errors
+   };
 }
